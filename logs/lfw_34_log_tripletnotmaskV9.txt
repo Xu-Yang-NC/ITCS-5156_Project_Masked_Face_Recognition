@@ -1,0 +1,55 @@
+epoch: 20	train:	LOSS: 14.588	tri_loss: 0.119	att_loss: 14.469	hard_sample: 11087	train_time: 0.223
+epoch: 20	test:	auc_masked: 0.650	best_auc_MD: 0.659	acc_MD: 0.637+-0.021	best_acc_MD: 0.644	recall_MD: 0.693+-0.025	precision_MD: 0.619+-0.023	best_distances_MD: 0.010+-0.000	tar_m: 0.005	
+epoch: 20	test:	auc: 0.659	best_auc: 0.659	acc: 0.644+-0.018	best_acc: 0.644	recall: 0.662+-0.029	precision: 0.634+-0.024	best_distances: 0.011+-0.000	tar_m: 0.006	
+epoch: 20	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 21	train:	LOSS: 15.612	tri_loss: 0.121	att_loss: 15.491	hard_sample: 10363	train_time: 0.279
+epoch: 21	test:	auc_masked: 0.638	best_auc_MD: 0.670	acc_MD: 0.624+-0.022	best_acc_MD: 0.660	recall_MD: 0.657+-0.031	precision_MD: 0.612+-0.027	best_distances_MD: 0.011+-0.000	tar_m: 0.000	
+epoch: 21	test:	auc: 0.670	best_auc: 0.670	acc: 0.660+-0.025	best_acc: 0.660	recall: 0.762+-0.037	precision: 0.629+-0.024	best_distances: 0.011+-0.000	tar_m: 0.001	
+epoch: 21	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 22	train:	LOSS: 16.813	tri_loss: 0.129	att_loss: 16.684	hard_sample: 8716	train_time: 0.179
+epoch: 22	test:	auc_masked: 0.607	best_auc_MD: 0.670	acc_MD: 0.600+-0.021	best_acc_MD: 0.660	recall_MD: 0.771+-0.015	precision_MD: 0.571+-0.022	best_distances_MD: 0.011+-0.000	tar_m: 0.008	
+epoch: 22	test:	auc: 0.655	best_auc: 0.670	acc: 0.646+-0.020	best_acc: 0.660	recall: 0.807+-0.031	precision: 0.606+-0.021	best_distances: 0.011+-0.000	tar_m: 0.007	
+epoch: 22	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 23	train:	LOSS: 17.544	tri_loss: 0.135	att_loss: 17.409	hard_sample: 7718	train_time: 0.202
+epoch: 23	test:	auc_masked: 0.585	best_auc_MD: 0.697	acc_MD: 0.571+-0.026	best_acc_MD: 0.660	recall_MD: 0.509+-0.036	precision_MD: 0.574+-0.036	best_distances_MD: 0.011+-0.000	tar_m: 0.001	
+epoch: 23	test:	auc: 0.697	best_auc: 0.697	acc: 0.656+-0.023	best_acc: 0.660	recall: 0.521+-0.039	precision: 0.705+-0.030	best_distances: 0.012+-0.000	tar_m: 0.007	
+epoch: 23	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 24	train:	LOSS: 19.076	tri_loss: 0.147	att_loss: 18.930	hard_sample: 6428	train_time: 0.195
+epoch: 24	test:	auc_masked: 0.595	best_auc_MD: 0.720	acc_MD: 0.581+-0.015	best_acc_MD: 0.660	recall_MD: 0.525+-0.034	precision_MD: 0.585+-0.018	best_distances_MD: 0.011+-0.000	tar_m: 0.003	
+epoch: 24	test:	auc: 0.720	best_auc: 0.720	acc: 0.654+-0.012	best_acc: 0.660	recall: 0.839+-0.028	precision: 0.608+-0.014	best_distances: 0.023+-0.000	tar_m: 0.011	
+epoch: 24	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 25	train:	LOSS: 20.099	tri_loss: 0.154	att_loss: 19.945	hard_sample: 5602	train_time: 0.151
+epoch: 25	test:	auc_masked: 0.596	best_auc_MD: 0.721	acc_MD: 0.589+-0.028	best_acc_MD: 0.660	recall_MD: 0.637+-0.029	precision_MD: 0.576+-0.031	best_distances_MD: 0.012+-0.000	tar_m: 0.001	
+epoch: 25	test:	auc: 0.721	best_auc: 0.721	acc: 0.657+-0.015	best_acc: 0.660	recall: 0.872+-0.021	precision: 0.606+-0.015	best_distances: 0.023+-0.000	tar_m: 0.017	
+epoch: 25	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 26	train:	LOSS: 20.854	tri_loss: 0.160	att_loss: 20.694	hard_sample: 5037	train_time: 0.158
+epoch: 26	test:	auc_masked: 0.621	best_auc_MD: 0.730	acc_MD: 0.604+-0.019	best_acc_MD: 0.678	recall_MD: 0.561+-0.028	precision_MD: 0.607+-0.026	best_distances_MD: 0.012+-0.000	tar_m: 0.000	
+epoch: 26	test:	auc: 0.730	best_auc: 0.730	acc: 0.678+-0.020	best_acc: 0.678	recall: 0.794+-0.023	precision: 0.641+-0.021	best_distances: 0.023+-0.000	tar_m: 0.016	
+epoch: 26	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 27	train:	LOSS: 22.278	tri_loss: 0.170	att_loss: 22.108	hard_sample: 4488	train_time: 0.203
+epoch: 27	test:	auc_masked: 0.607	best_auc_MD: 0.765	acc_MD: 0.572+-0.024	best_acc_MD: 0.703	recall_MD: 0.830+-0.037	precision_MD: 0.544+-0.018	best_distances_MD: 0.022+-0.000	tar_m: 0.004	
+epoch: 27	test:	auc: 0.765	best_auc: 0.765	acc: 0.703+-0.018	best_acc: 0.703	recall: 0.724+-0.026	precision: 0.690+-0.023	best_distances: 0.023+-0.000	tar_m: 0.012	
+epoch: 27	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 28	train:	LOSS: 23.355	tri_loss: 0.178	att_loss: 23.177	hard_sample: 3968	train_time: 0.155
+epoch: 28	test:	auc_masked: 0.663	best_auc_MD: 0.789	acc_MD: 0.616+-0.027	best_acc_MD: 0.728	recall_MD: 0.849+-0.033	precision_MD: 0.575+-0.021	best_distances_MD: 0.023+-0.000	tar_m: 0.006	
+epoch: 28	test:	auc: 0.789	best_auc: 0.789	acc: 0.728+-0.030	best_acc: 0.728	recall: 0.779+-0.027	precision: 0.703+-0.034	best_distances: 0.024+-0.000	tar_m: 0.011	
+epoch: 28	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 29	train:	LOSS: 24.635	tri_loss: 0.188	att_loss: 24.447	hard_sample: 3332	train_time: 0.289
+epoch: 29	test:	auc_masked: 0.662	best_auc_MD: 0.793	acc_MD: 0.619+-0.022	best_acc_MD: 0.728	recall_MD: 0.813+-0.027	precision_MD: 0.582+-0.020	best_distances_MD: 0.024+-0.000	tar_m: 0.003	
+epoch: 29	test:	auc: 0.793	best_auc: 0.793	acc: 0.720+-0.026	best_acc: 0.728	recall: 0.880+-0.012	precision: 0.664+-0.030	best_distances: 0.033+-0.000	tar_m: 0.020	
+epoch: 29	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
+epoch: 30	train:	LOSS: 25.270	tri_loss: 0.195	att_loss: 25.076	hard_sample: 2966	train_time: 0.142
+epoch: 30	test:	auc_masked: 0.623	best_auc_MD: 0.793	acc_MD: 0.582+-0.021	best_acc_MD: 0.728	recall_MD: 0.365+-0.030	precision_MD: 0.634+-0.039	best_distances_MD: 0.013+-0.000	tar_m: 0.001	
+epoch: 30	test:	auc: 0.774	best_auc: 0.793	acc: 0.702+-0.027	best_acc: 0.728	recall: 0.645+-0.024	precision: 0.722+-0.042	best_distances: 0.023+-0.000	tar_m: 0.022	
+epoch: 30	config:	LR: 1e-05	optimizer: adam	embedding_dim: 128	pretrained: False	image_size: 256
+
