@@ -1,4 +1,4 @@
-# ML-Project-5156
+# Masked Face Recognition
 
 The datasets size is too big therefore are not included in this repo.
 VGGFace2 dataset can be downloaded: https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
